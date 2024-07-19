@@ -1,0 +1,7 @@
+[package]
+name = "egc"
+version = "0.1.0"
+authors = ["Jade Guiton <guiton.jade@gmail.com>"]
+edition = "2021"
+
+[dependencies]
